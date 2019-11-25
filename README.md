@@ -31,4 +31,4 @@ and change the above `cdk.json`to:
 }
 ```
 
-A call to `cdk list` shoud list the declared cdk stacks, `cdk synth` should acknowledge a successful cloudformation synthesis. 
+A call to `cdk list` should list the declared cdk stacks, `cdk synth` should acknowledge a successful cloudformation synthesis. 
