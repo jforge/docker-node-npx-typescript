@@ -1,5 +1,5 @@
 # docker-node-npx-typescript
-A docker image with node, npx and typescript support
+A docker image with support for node, npx and typescript.
 
 ## Usage
 
